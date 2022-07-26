@@ -1,17 +1,17 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "igabor98/language-manager",
+    "description": "Language manager for Laravel",
     "keywords": [
-        ":vendor_name",
+        "Ivan Gabor",
         "laravel",
-        ":package_slug"
+        "language-manager"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/IGabor98/language-manager",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": ":Ivan Gabor",
+            "email": "ivangabor.job@gmail.com",
             "role": "Developer"
         }
     ],
